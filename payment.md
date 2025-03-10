@@ -1,1 +1,1 @@
-Funcionalidad de Pago completada".
+Funcionalidad de Pago completada  ".
