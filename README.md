@@ -5,5 +5,5 @@ Versión 1.0.1 - Hotfix aplicado para corregir errores críticos
 cambio
 
 cambio para jira
-cambio jira userstory
+cambio jira user story
 
