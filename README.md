@@ -6,7 +6,8 @@ cambio
 
 cambio para jira
 
-cambio jira user story
+cambio jira user  story
+
 
 cambio para error de validacion bug jira
 
